@@ -9,7 +9,7 @@ int main() {
 }
 
 /*
-0 5 6        ❌ (less than 1)
--3 4 5       ❌ (negative)
-1001 2 3     ❌ (greater than 1000)
+0 5 6         (less than 1)
+-3 4 5        (negative)
+1001 2 3      (greater than 1000)
 */

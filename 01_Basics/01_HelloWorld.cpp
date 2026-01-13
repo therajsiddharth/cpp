@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>//cout,cin,cerr->error
 using namespace std;
 int main()
 {
